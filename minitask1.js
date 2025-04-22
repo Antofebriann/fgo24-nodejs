@@ -13,7 +13,6 @@ async function createFile(fileName){
 }
 const musicList = [
     'TWICE - What Is Love',
-    'Linkin Park - Numb',
     'TWICE - Signal',
     'TWICE - Fancy',
     'Linkin Park - Numb',
