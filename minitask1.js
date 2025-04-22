@@ -22,7 +22,7 @@ const musicList = [
     'illit - Midnight Fiction',
     'illit - Magnetic',
     'illit - Cherrish',
-    'Yung Kai - Blue'
+    'Yung Kai - Blue',
     
 ]
 
